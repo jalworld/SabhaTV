@@ -1,2 +1,2 @@
 # SabhaTV
-The 'Sabha TV', the premier of its kind in any of the State Legislative Assemblies of India is an intrinsic channel aimed at broadcasting live proceedings of the Kerala Legislative Assembly, Sabha TV aims to provide general information programs along with in-depth analysis of Kearala Legislative Assembly affairs for discerning viewers.
+Sabha TV is an initiative from Kerala Legislature. Its remit is to make accessible to all the work of the legislature and its bodies of the State to the common people.Sabha TV has the mandate to telecast uninterrupted live proceedings of the Niyamasabha.
